@@ -18,7 +18,7 @@ The San Bernadino shooter's iPhone event was an interesting case with lots of nu
 
 # What is bitcoin?
 
-Bitcoin is a digital currency, like the US dollar or the British Pound, except it is more like gold than a dollar. It is based on a computer's proof that it has done a certain amount of computation via encryption and math. It is in my opinion a revolutionary concept that fulfills its claim of having the following characteristics, even though it is mysterious to most people.
+Bitcoin is a digital currency, like the US dollar or the British Pound, except it is more like gold than a dollar. It is based on a computer's proof that it has done a certain amount of computation via encryption. It is in my opinion a revolutionary concept that fulfills its claim of having the following characteristics, even though it is mysterious to most people.
 
 * Impossible to counterfeit (like gold, you can test if gold is gold)
 * Impossible to inflate (like gold, you can't print one million new pounds of it)
@@ -56,7 +56,7 @@ But in the US, our leaders all swear to uphold and defend the Consitution so wha
 
 And that is fine. The US can still issue its US dollar, states cannot issue their own currencies, and both bitcoins and dollars can be exchanged for gold or silver so I see no fundamental problem there.
 
-One reason that people blame bitcoin for being anti-government is because there are criminal groups that find it useful. This is very true, but it is in my opinion a weak and ill informed view of what it means for something to be anti-government. Paper shreaders, matches, cars, shovels, and cash are all "anti-government." Criminals shread their paperwork, they light things on fire, drive to their criminal activities, bury corpses, and pay with cash, but does this mean that we should outlaw or even regulate those things? No, of course not. Blaming bitcoin for the online black market (called the dark web) is like blaming Exon gas stations for the string of arsons in Kentucky last month.
+One reason that people blame bitcoin for being anti-government is because there are criminal groups that find it useful. This is very true, but it is in my opinion a weak and ill informed view of what it means for something to be anti-government. Paper shreaders, matches, cars, shovels, and cash are all "anti-government." Criminals shread their paperwork, they light things on fire, drive to their criminal activities, bury corpses, and pay with cash, but does this mean that we should outlaw or even regulate the shreaders, matches, cars, shovels, and cash they used for those things? No, of course not. Blaming bitcoin for the online black market (called the dark web) is like blaming Exon gas stations for the string of arsons in Kentucky last month.
 
 Another reason why people blame bitcoin for being anti-government is because they think it is *entirely anonymous*. People take this claim very far, sometimes arguing that bitcoin was designed specifically for criminal activities because of its anonymity. This is in my opinion another ill informed view that is easily cleared up when you look at the technical details. All bitcoin transactions are stored visibly, traceably, and permanently in the bitcoin public ledger. This means that you can see every time which bitcoin address paid which other bitcoin address exactly how many bitcoins. That provides an unprecedented level of transparency to the currency, but "anonymous" payments are still possible if you want to do them by making a new address for each transaction. If you never reveal the fact that you own that address e.g. `1FNNY51HzjkSEkNt7yJ7pkwrxNbgJiGHxN` then no one will know it was you. So the bottom line is that some bitcoin payments are anonymous, but some are not, and it depends what the user wants.
 
@@ -70,7 +70,7 @@ A bitcoin is created when any computer on the bitcoin network finds the numeric 
 
 # What is the dark web?
 
-There is a subset of the internet that is widely referred to as the "dark web," but that is a loaded term in my opinion and I prefer to use the term "anonymity networks." The point of these networks is to provide anonymous sharing of online content, and they include networks like TOR, Freenet, and I2P which use strong encryption to keep user's anonymous. Normal internet use is not anonymous for a number of technical reasons. There are of course legitimate uses and illegitimate uses of these networks, but since the media focuses on the illegitimate ones I would like to explain both:
+There is a subset of the internet that is widely referred to as the "dark web," but that is a loaded term in my opinion and I prefer to use the term "anonymity networks." The point of these networks is to provide anonymous sharing of online content, and they include networks like TOR, Freenet, and I2P which use strong encryption to keep users anonymous, whereas normal internet use is not anonymous for a number of technical reasons. There are of course legitimate uses and illegitimate uses of these networks, but since the media focuses on the illegitimate ones I would like to explain both:
 
 ## Do bad things happen on the anonymity networks?
 
