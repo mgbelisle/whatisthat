@@ -44,7 +44,7 @@ Another reason why people blame bitcoin for being anti-government is because the
 
 ## Is bitcoin a good investment?
 
-No. When bitcoin's value jumped from ~$25 to ~$1100 dollars per bitcoin in 2013, people started thinking that it was a good investment, but unfortunately it is not. Long term high risk stock portfolios are a good investment; bitcoin is a currency, a particularly volatile one right now, and is not a good investment.
+Not really, in my opinion. When bitcoin's value jumped from ~$25 to ~$1100 dollars per bitcoin in 2013, people started thinking that it was a good investment, but unfortunately it is not. Long term high risk stock portfolios are a good investment; bitcoin is a currency, a particularly volatile one right now, and is not a good investment.
 
 ## How do you create bitcoins?
 
